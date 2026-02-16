@@ -1,5 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
 
+<img width="853" height="480" alt="dashboard" src="https://github.com/user-attachments/assets/80bb77ec-4937-4e1c-b408-c82610231720" />
+
 ## 📌 Overview
 
 This project analyzes **customer shopping behavior** using transactional purchase data to uncover key insights into customer spending patterns, product preferences, subscription trends, and discount-based purchasing behavior.
